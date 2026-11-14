@@ -3,7 +3,7 @@
   "name": "module-billing-cpanel",
   "display_name": "Billing cPanel",
   "description": "Optional cPanel/WHM hosting account adapter.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "category": "adapter",
   "provider": "Liberu\\Billing\\Cpanel\\CpanelServiceProvider",
   "requires": {
